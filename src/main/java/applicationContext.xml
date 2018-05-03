@@ -9,7 +9,7 @@
 
     <!-- Define your beans here -->
    <bean id ="myCoach"
-   class="inversionOfControl.TrackCoach">
+   class="inversionOfControl.BaseballCoach">
    </bean>
 </beans>
 
